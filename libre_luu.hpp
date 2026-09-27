@@ -4,7 +4,7 @@
 #include <iostream>
 
 inline void saludar() {
-    std::cout << "Hola! Mi primera libreria .hpp funciona correctamente." << std::endl;
+    std::cout << "Holi, mi primera libreria." << std::endl;
 }
 
 inline int sumar(int a, int b) {
